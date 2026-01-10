@@ -80,7 +80,6 @@ Firestore Database (Real-time)
        ↓
 Admin Dashboard (Status Management)
 
-
 ---
 
 ## 🚀 Getting Started (Local Setup)
