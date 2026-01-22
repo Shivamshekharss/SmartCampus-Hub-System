@@ -71,14 +71,15 @@ SmartCampus Hub provides a centralized platform where:
 ## 🏗️ System Architecture
 
 User (Student / Admin)
-       ↓
+↓
 Web Application (HTML, CSS, JS)
-       ↓
+↓
 Firebase Authentication
-       ↓
+↓
 Firestore Database (Real-time)
-       ↓
+↓
 Admin Dashboard (Status Management)
+
 
 ---
 
